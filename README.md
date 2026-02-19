@@ -70,22 +70,6 @@ Mi objetivo es desarrollar la habilidad de contar historias basadas en datos y a
 
 ---
 
-## 🚀 Proyectos Destacados
-
-- ⭐ **[Proyecto 1](URL-del-repositorio)**  
-  🐍 Python • 🗄️ SQL • 📊 Power BI  
-  Breve descripción del proyecto.
-
-- ⭐ **[Proyecto 2](URL-del-repositorio)**  
-  🐍 Python • 📈 Pandas • 📉 Matplotlib  
-  Breve descripción del proyecto.
-
-- ⭐ **[Proyecto 3](URL-del-repositorio)**  
-  🤖 IA • 🐍 Python • 📊 Visualización  
-  Breve descripción del proyecto.
-
----
-
 ## 📫 Contacto
 
 <p align="center">
